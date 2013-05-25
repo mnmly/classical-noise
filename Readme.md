@@ -1,5 +1,8 @@
-
 # classical-noise
+
+☞ [Demo](http://mnmly.github.io/classical-noise/)
+[![](http://f.cl.ly/items/291a170b2L2t1V1v110s/Image%202013.05.25%209%3A50%3A02%20AM.png)](http://mnmly.github.io/classical-noise/)
+
 
 Classical Perlin Noise Generator
 
@@ -7,7 +10,8 @@ Classical Perlin Noise Generator
 > Read Stefan's excellent paper for details on how this code works.
 
 This `component` version is cloned from the [gist](https://gist.github.com/banksean/304522) by [Sean McCullough](https://github.com/banksean)
-  
+
+
 
 ## Installation
 
