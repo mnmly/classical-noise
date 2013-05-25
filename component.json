@@ -1,0 +1,13 @@
+{
+  "name": "classical-noise",
+  "repo": "mnmly/classical-noise",
+  "description": "Classical Perlin Noise Generator",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
